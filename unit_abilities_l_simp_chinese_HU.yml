@@ -1,0 +1,9 @@
+﻿l_simp_chinese:
+ drill_navy:0 "海军操练"
+ drill_navydesc:0 "训练有素的海军知道如果他们与敌人交战该怎么办，但是我们需要支付潜在的费用。"
+ utilize_marines:0 "全速前进"
+ utilize_marinesdesc:0 "让我们的水兵参与划桨的确能让我们更快到达目的地，但部队能否做好战斗准备是完全不同的难题。请慎重选择。"
+ marines_explain_tt:0 "我们需要在海军上分配一些水兵以正确使用它。"
+ no_marines_tt:0 "我们缺乏训练有素的水兵来利用任何姿态"
+ disallow_octere_rome_tt:0 "我们缺少合适的造船厂来计划建造这么大的船。"
+ disallow_octere_wood_tt:0 "对于这种大小的船，我们缺少必要数量的木材。"
