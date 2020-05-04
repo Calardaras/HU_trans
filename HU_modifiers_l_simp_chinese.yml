@@ -1,9 +1,9 @@
-﻿l_english:
+﻿l_simp_chinese:
 # Modifier Names
   # Modded Units
    # Marines
  marines_discipline:0 "水兵训练度"
- marines_morale:0 "水兵费用"
+ marines_morale:0 "水兵士气"
  marines_offensive:0 "水兵进攻"
  marines_defensive:0 "水兵防御"
  marines_cost:0 "水兵费用"
@@ -23,7 +23,7 @@
 
    # Medium Infantry
  medium_infantry_discipline:0 "常规步兵训练度"
- medium_infantry_morale:0 "常规步兵费用"
+ medium_infantry_morale:0 "常规步兵士气"
  medium_infantry_offensive:0 "常规步兵进攻"
  medium_infantry_defensive:0 "常规步兵防御"
  medium_infantry_cost:0 "常规步兵费用"
@@ -43,7 +43,7 @@
 
    # Skirmishers
  skirmishers_discipline:0 "散兵训练度"
- skirmishers_morale:0 "散兵费用"
+ skirmishers_morale:0 "散兵士气"
  skirmishers_offensive:0 "散兵进攻"
  skirmishers_defensive:0 "散兵防御"
  skirmishers_cost:0 "散兵费用"
@@ -63,7 +63,7 @@
 
    # Slingers
  slingers_discipline:0 "投石手训练度"
- slingers_morale:0 "投石手费用"
+ slingers_morale:0 "投石手士气"
  slingers_offensive:0 "投石手进攻"
  slingers_defensive:0 "投石手防御"
  slingers_cost:0 "投石手费用"
@@ -136,7 +136,7 @@
 
    # Heavy Infantry(Replaces Heavy Infantry)
  heavy_infantry_discipline:0 "精锐步兵训练度"
- heavy_infantry_morale:0 "精锐步兵费用"
+ heavy_infantry_morale:0 "精锐步兵士气"
  heavy_infantry_offensive:0 "精锐步兵进攻"
  heavy_infantry_defensive:0 "精锐步兵防御"
  heavy_infantry_cost:0 "精锐步兵费用"
