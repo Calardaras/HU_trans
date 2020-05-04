@@ -1,4 +1,7 @@
-﻿l_simp_chinese:
+﻿l_english:
+# Modifier Names
+  # Modded Units
+   # Marines
  marines_discipline:0 "水兵训练度"
  marines_morale:0 "水兵费用"
  marines_offensive:0 "水兵进攻"
@@ -17,6 +20,8 @@
  marines_ocean_combat_bonus:0 "水兵海洋战斗加成"
  marines_coastal_terrain_combat_bonus:0 "水兵海岸战斗加成"
  marines_riverine_terrain_combat_bonus:0 "水兵河流战斗加成"
+
+   # Medium Infantry
  medium_infantry_discipline:0 "常规步兵训练度"
  medium_infantry_morale:0 "常规步兵费用"
  medium_infantry_offensive:0 "常规步兵进攻"
@@ -35,6 +40,8 @@
  medium_infantry_ocean_combat_bonus:0 "常规步兵海洋战斗加成"
  medium_infantry_coastal_terrain_combat_bonus:0 "常规步兵海岸战斗加成"
  medium_infantry_riverine_terrain_combat_bonus:0 "常规步兵河流战斗加成"
+
+   # Skirmishers
  skirmishers_discipline:0 "散兵训练度"
  skirmishers_morale:0 "散兵费用"
  skirmishers_offensive:0 "散兵进攻"
@@ -53,6 +60,8 @@
  skirmishers_ocean_combat_bonus:0 "散兵海洋战斗加成"
  skirmishers_coastal_terrain_combat_bonus:0 "散兵海岸战斗加成"
  skirmishers_riverine_terrain_combat_bonus:0 "散兵河流战斗加成"
+
+   # Slingers
  slingers_discipline:0 "投石手训练度"
  slingers_morale:0 "投石手费用"
  slingers_offensive:0 "投石手进攻"
@@ -71,6 +80,9 @@
  slingers_ocean_combat_bonus:0 "投石手海洋战斗加成"
  slingers_coastal_terrain_combat_bonus:0 "投石手海岸战斗加成"
  slingers_riverine_terrain_combat_bonus:0 "投石手河流战斗加成"
+
+  # Vanilla Unit Additions
+   # Archers
  archers_plains_combat_bonus:0 "弓箭手平原战斗加成"
  archers_mountain_combat_bonus:0 "弓箭手山地战斗加成"
  archers_hills_combat_bonus:0 "弓箭手丘陵战斗加成"
@@ -82,6 +94,8 @@
  archers_ocean_combat_bonus:0 "弓箭手海洋战斗加成"
  archers_coastal_terrain_combat_bonus:0 "弓箭手海岸战斗加成"
  archers_riverine_terrain_combat_bonus:0 "弓箭手河流战斗加成"
+
+   # Camels
  camels_plains_combat_bonus:0 "骆驼骑兵平原战斗加成"
  camels_mountain_combat_bonus:0 "骆驼骑兵山地战斗加成"
  camels_hills_combat_bonus:0 "骆驼骑兵丘陵战斗加成"
@@ -93,6 +107,8 @@
  camels_ocean_combat_bonus:0 "骆驼骑兵海洋战斗加成"
  camels_coastal_terrain_combat_bonus:0 "骆驼骑兵海岸战斗加成"
  camels_riverine_terrain_combat_bonus:0 "骆驼骑兵河流战斗加成"
+
+   # Chariots
  chariots_plains_combat_bonus:0 "战车平原战斗加成"
  chariots_mountain_combat_bonus:0 "战车山地战斗加成"
  chariots_hills_combat_bonus:0 "战车丘陵战斗加成"
@@ -104,6 +120,8 @@
  chariots_ocean_combat_bonus:0 "战车海洋战斗加成"
  chariots_coastal_terrain_combat_bonus:0 "战车海岸战斗加成"
  chariots_riverine_terrain_combat_bonus:0 "战车河流战斗加成"
+
+   # Heavy Cavalry
  heavy_cavalry_plains_combat_bonus:0 "重骑兵平原战斗加成"
  heavy_cavalry_mountain_combat_bonus:0 "重骑兵山地战斗加成"
  heavy_cavalry_hills_combat_bonus:0 "重骑兵丘陵战斗加成"
@@ -115,6 +133,8 @@
  heavy_cavalry_ocean_combat_bonus:0 "重骑兵海洋战斗加成"
  heavy_cavalry_coastal_terrain_combat_bonus:0 "重骑兵海岸战斗加成"
  heavy_cavalry_riverine_terrain_combat_bonus:0 "重骑兵河流战斗加成"
+
+   # Heavy Infantry(Replaces Heavy Infantry)
  heavy_infantry_discipline:0 "精锐步兵训练度"
  heavy_infantry_morale:0 "精锐步兵费用"
  heavy_infantry_offensive:0 "精锐步兵进攻"
@@ -133,6 +153,8 @@
  heavy_infantry_ocean_combat_bonus:0 "精锐步兵海洋战斗加成"
  heavy_infantry_coastal_terrain_combat_bonus:0 "精锐步兵海岸战斗加成"
  heavy_infantry_riverine_terrain_combat_bonus:0 "精锐步兵河流战斗加成"
+
+   # Horse Archers
  horse_archers_plains_combat_bonus:0 "骑射手平原战斗加成"
  horse_archers_mountain_combat_bonus:0 "骑射手山地战斗加成"
  horse_archers_hills_combat_bonus:0 "骑射手丘陵战斗加成"
@@ -143,7 +165,9 @@
  horse_archers_farmland_combat_bonus:0 "骑射手农田战斗加成"
  horse_archers_ocean_combat_bonus:0 "骑射手海洋战斗加成"
  horse_archers_coastal_terrain_combat_bonus:0 "骑射手海岸战斗加成"
- horse_archers_riverine_terrain_combat_bonus:0 "骑射手河流战斗加成"
+ horse_archers_riverine_terrain_combat_bonus:0 "骑射手河流战斗加成" 
+
+   # Light Cavalry
  light_cavalry_plains_combat_bonus:0 "轻骑兵平原战斗加成"
  light_cavalry_mountain_combat_bonus:0 "轻骑兵山地战斗加成"
  light_cavalry_hills_combat_bonus:0 "轻骑兵丘陵战斗加成"
@@ -155,6 +179,8 @@
  light_cavalry_ocean_combat_bonus:0 "轻骑兵海洋战斗加成"
  light_cavalry_coastal_terrain_combat_bonus:0 "轻骑兵海岸战斗加成"
  light_cavalry_riverine_terrain_combat_bonus:0 "轻骑兵河流战斗加成"
+
+   # Light Infantry
  light_infantry_plains_combat_bonus:0 "步兵平原战斗加成"
  light_infantry_mountain_combat_bonus:0 "步兵山地战斗加成"
  light_infantry_hills_combat_bonus:0 "步兵丘陵战斗加成"
@@ -166,6 +192,8 @@
  light_infantry_ocean_combat_bonus:0 "步兵海洋战斗加成"
  light_infantry_coastal_terrain_combat_bonus:0 "步兵海岸战斗加成"
  light_infantry_riverine_terrain_combat_bonus:0 "步兵河流战斗加成"
+
+   # warelephant
  warelephant_plains_combat_bonus:0 "战象平原战斗加成"
  warelephant_mountain_combat_bonus:0 "战象山地战斗加成"
  warelephant_hills_combat_bonus:0 "战象丘陵战斗加成"
@@ -177,24 +205,33 @@
  warelephant_ocean_combat_bonus:0 "战象海洋战斗加成"
  warelephant_coastal_terrain_combat_bonus:0 "战象海岸战斗加成"
  warelephant_riverine_terrain_combat_bonus:0 "战象河流战斗加成"
+
+# Modifier Descriptions
+  # Marines
  marines_discipline_desc:0 "$MODIFIER_DISCIPLINE_desc$"
  marines_morale_desc:0 "$MODIFIER_LAND_MORALE_desc$"
  marines_offensive_desc:0 "$MODIFIER_LAND_OFFENSE_desc$"
  marines_defensive_desc:0 "$MODIFIER_LAND_DEFENSE_desc$"
  marines_maintenance_cost_desc:0 "$MODIFIER_ARMY_MAINTENANCE_COST_desc$"
  marines_movement_speed_desc:0 "$MODIFIER_LAND_MOVEMENT_SPEED_desc$"
+
+  # Medium Infantry
  medium_infantry_discipline_desc:0 "$MODIFIER_DISCIPLINE_desc$"
  medium_infantry_morale_desc:0 "$MODIFIER_LAND_MORALE_desc$"
  medium_infantry_offensive_desc:0 "$MODIFIER_LAND_OFFENSE_desc$"
  medium_infantry_defensive_desc:0 "$MODIFIER_LAND_DEFENSE_desc$"
  medium_infantry_maintenance_cost_desc:0 "$MODIFIER_ARMY_MAINTENANCE_COST_desc$"
  medium_infantry_movement_speed_desc:0 "$MODIFIER_LAND_MOVEMENT_SPEED_desc$"
+
+  # Skirmishers
  skirmishers_discipline_desc:0 "$MODIFIER_DISCIPLINE_desc$"
  skirmishers_morale_desc:0 "$MODIFIER_LAND_MORALE_desc$"
  skirmishers_offensive_desc:0 "$MODIFIER_LAND_OFFENSE_desc$"
  skirmishers_defensive_desc:0 "$MODIFIER_LAND_DEFENSE_desc$"
  skirmishers_maintenance_cost_desc:0 "$MODIFIER_ARMY_MAINTENANCE_COST_desc$"
  skirmishers_movement_speed_desc:0 "$MODIFIER_LAND_MOVEMENT_SPEED_desc$"
+
+  # Singers
  slingers_discipline_desc:0 "$MODIFIER_DISCIPLINE_desc$"
  slingers_morale_desc:0 "$MODIFIER_LAND_MORALE_desc$"
  slingers_offensive_desc:0 "$MODIFIER_LAND_OFFENSE_desc$"
